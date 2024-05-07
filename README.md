@@ -18,4 +18,4 @@ This project is a simple implementation of the classic Snake Game using Java, sp
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/zeffins/Snakes.git
+git clone https://github.com/zeffins/Java-snake-game.git
